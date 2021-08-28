@@ -1,0 +1,11 @@
+Create zone: 
+
+1) Create new Zone set on A SAN fabric
+2) Activate SAN config on A fabric
+3) Create new Zone set on B SAN fabric
+4) Activate SAN config on B fabric
+5) Expand storage pool on array by adding more disks to the storage pool, if required. 
+6) Create New LUN(s)  on storage array using the GUI or CLI.
+7) Assign the disk(s) to the appropriate Storage Group using the GUI or CLI or expand existing LUNS in host configuration  
+
+
